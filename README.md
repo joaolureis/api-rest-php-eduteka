@@ -165,7 +165,7 @@ Base URL: `http://localhost:8000/api`
 
 ---
 
-## ⚙️ Como Rodar o Projeto
+## Como Rodar o Projeto
 
 ### Pré-requisitos
 - PHP >= 8.2
@@ -215,7 +215,7 @@ php artisan test
 
 ---
 
-## 📝 Observações
+## Observações
 
 - A senha de usuários criados via API é definida como `123` (hash) por padrão — apenas para ambiente de desenvolvimento/testes.
 - A listagem de usuários retorna **3 registros por página**, ordenados pelo `id` decrescente.
