@@ -57,7 +57,7 @@ A tabela `users` é criada via migration com os seguintes campos:
 
 ---
 
-## 🔌 Endpoints da API
+## Endpoints da API
 
 Base URL: `http://localhost:8000/api`
 
